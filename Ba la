@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ba Lá Wellness House</title>
+<style>
+body{margin:0;background:#f5f1e8;color:#315b3b;
+font-family:Arial,sans-serif;text-align:center}
+main{max-width:650px;margin:12vh auto;padding:30px}
+h1{font-size:64px;letter-spacing:8px;margin:12px 0}
+h2{font-weight:400;font-size:28px}
+p{line-height:1.8}
+a{display:inline-block;margin:24px 0;
+padding:15px 30px;border-radius:30px;
+background:#315b3b;color:white;text-decoration:none}
+</style>
+</head>
+<body>
+<main>
+<h1>BA LÁ</h1>
+<p>WELLNESS HOUSE</p>
+<h2>Ghé sạc chút nha.</h2>
+<p>Một khoảng xanh để chăm mình, nghỉ ngơi
+và nạp lại năng lượng.</p>
+<p>Healthy Drink • Hair Spa • Body Care</p>
+<a href="https://www.google.com/maps/search/?api=1&query=158+Pham+Van+Bach+TPHCM">KHÁM PHÁ BA LÁ</a>
+<p>158 Phạm Văn Bạch, TP.HCM</p>
+</main>
+</body>
+</html>
+  
